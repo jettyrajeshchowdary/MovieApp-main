@@ -1,0 +1,47 @@
+.header {
+  background-color: #7fffd4;
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+#logoname {
+  padding-left: 50px;
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+ul li {
+  padding: 20px;
+  font-size: 45px;
+}
+
+.card {
+  border: 1px solid #000;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  display: block;
+}
+
+.card img {
+  width: 100%;
+}
+
+.Movie-Card {
+  display: flex;
+}
+
+.searchbar {
+  width: 20%;
+  height: 40%;
+  margin: 10px;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

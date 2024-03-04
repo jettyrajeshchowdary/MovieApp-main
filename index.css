@@ -1,0 +1,45 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+#logoname{
+    display: flex;
+    padding-left: 50px;
+}
+
+ul{
+    display: flex;
+    list-style-type:none;
+}
+
+ul li{
+    padding: 20px;
+    font-size: 45px;
+}
+
+.card{
+    border: 1px solid black;
+    display: block;
+    flex-wrap: wrap;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
+
+.Movie-Card{
+    display: flex;
+}
+
+.searchbar{
+    width: 20%;
+    height: 40%;
+    margin: 10px;
+    padding: 10px;
+}
